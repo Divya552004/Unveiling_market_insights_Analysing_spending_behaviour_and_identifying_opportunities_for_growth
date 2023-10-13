@@ -5,4 +5,4 @@ Dashboard Public Link - https://public.tableau.com/views/WholesaleCustomerAnalys
 
 Story Public Link - https://public.tableau.com/views/WholesalerCustomerAnalysisProjectStory/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
-Video Demonstration Link - 
+Video Demonstration Link - https://drive.google.com/file/d/1BMXf0GcTnGYpEbwBQPm6URpHBf9v6qh5/view?usp=drivesdk
